@@ -1,3 +1,5 @@
+Website Full.
+
 My Personal Website, built with React, Next.js, TailwindCSS, and Strapi for headlessCMS
 
 **Additional Libs**
